@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Suma Marri
 - 👀 I’m interested in watching international movies, Telugu, Tamil, Korean, you name it! 
-- 🌱 I’m currently learning Data Analytics. 
+- 🌱 I’m currently learning Data Analytics. I am doing my masters in Data Analytics at UCF. I am also completing a bootcamp with Columbia Engineering, too.
 - 💞️ I’m looking to collaborate on a volunteer project that will use my data analytics skills.
-- 📫 How to reach me? Email: smarri0612@gmail.com SnapChat: suma.marri
+- 📫 How to reach me? Email: smarri0612@gmail.com LinkedIn: https://www.linkedin.com/in/sumamarri Instagram: @suma_marri SnapChat: suma.marri
 
 <!---
 smarri0612/smarri0612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
